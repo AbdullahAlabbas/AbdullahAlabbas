@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalabbas&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalabbas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abduiiahty" target="blank"><img src="https://img.shields.io/twitter/follow/abduiiahty?logo=twitter&style=for-the-badge" alt="abduiiahty" /></a> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
