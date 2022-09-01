@@ -6,9 +6,8 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DART**
 
-- 💬 Ask me about **python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
