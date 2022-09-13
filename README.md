@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al abbas</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Alabbas</h1>
 <h3 align="center">A passionate Software Engineering Student from Saudi Arabia</h3>
-<img align="right" alt="Coding" width="400" src="[https://thumbs.gfycat.com/WavyQualifiedDogfish-size_restricted.gif-P7F4H03V6ZSTHYZW0WFM/image-asset.gif?format=500w](https://thumbs.gfycat.com/WavyQualifiedDogfish-mobile.mp4)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalabbas&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalabbas" /> </p>
 
-
-
-
+<p align="left"> <a href="https://twitter.com/3oiin" target="blank"><img src="https://img.shields.io/twitter/follow/3oiin?logo=twitter&style=for-the-badge" alt="3oiin" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
