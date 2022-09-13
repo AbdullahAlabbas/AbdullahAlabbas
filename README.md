@@ -1,5 +1,4 @@
 # Hi there, I'm Abdullah!👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlabbas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
