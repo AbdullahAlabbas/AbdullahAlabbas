@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/3oiin" target="blank"><img src="https://img.shields.io/twitter/follow/3oiin?logo=twitter&style=for-the-badge" alt="3oiin" /></a> </p>
+
 
 
 <p align="left">
