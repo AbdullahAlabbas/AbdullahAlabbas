@@ -2,9 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlabbas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalabbas&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalabbas" /> </p
 
 
