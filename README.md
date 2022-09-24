@@ -1,6 +1,5 @@
 # Hi there, I'm Abdullah!👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalabbas)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalabbas&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalabbas" /> </p
 
 
