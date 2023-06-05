@@ -46,7 +46,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdullahAlabbas&theme=transparent" />
   </a>
   <a href="https://github.com/AbdullahAlabbas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlabbas&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlabbas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+" />
   </a>
 </p>
 </details>
@@ -56,6 +57,7 @@
     <img src="https://komarev.com/ghpvc/?username=AbdullahAlabbas&color=blue&style=flat)" />
   </a>
 </p>
+
 <!--
 
 - 🔭 I’m currently working on ...
