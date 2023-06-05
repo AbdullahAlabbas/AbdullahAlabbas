@@ -34,9 +34,6 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AbdullahAlabbas)
 [![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=macOS)](https://github.com/AbdullahAlabbas)
 
-### Top Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlabbas&layout=compact)](https://github.com/AbdullahAlabbas/github-readme-stats)
 
 <details>
 <p align="center">
@@ -72,4 +69,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### Top Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlabbas&layout=compact)](https://github.com/AbdullahAlabbas/github-readme-stats)
 -->
